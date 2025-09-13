@@ -52,7 +52,10 @@ let apiKey = "your_api_key_here";
 ---
 
 ## 📸 Preview
-(You can add screenshots of your app here)
+## 📸 Preview
+
+![App Screenshot](images/ScreenShot%20of%20website.png)
+
 
 ---
 
